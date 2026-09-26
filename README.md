@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -21,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/PriyalPatel30/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 <!---LeetCode Topics End-->
