@@ -16,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2729-check-if-the-number-is-fascinating](https://github.com/PriyalPatel30/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Hash Table
+|  |
+| ------- |
+| [2729-check-if-the-number-is-fascinating](https://github.com/PriyalPatel30/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 <!---LeetCode Topics End-->
