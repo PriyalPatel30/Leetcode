@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/PriyalPatel30/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PriyalPatel30/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
