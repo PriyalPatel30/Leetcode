@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PriyalPatel30/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PriyalPatel30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PriyalPatel30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
