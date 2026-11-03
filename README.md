@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyalPatel30/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PriyalPatel30/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PriyalPatel30/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [2729-check-if-the-number-is-fascinating](https://github.com/PriyalPatel30/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PriyalPatel30/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PriyalPatel30/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
